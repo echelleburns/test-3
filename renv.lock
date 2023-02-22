@@ -108,7 +108,7 @@
       "Package": "fs",
       "Version": "1.6.1",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "f4dcd23b67e33d851d2079f703e8b985",
       "Requirements": []
     },
@@ -276,11 +276,7 @@
       "Version": "1.7.12",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
-      "RemoteUrl": "https://github.com/gagolews/stringi",
-      "RemoteRef": "v1.7.12",
-      "RemoteSha": "e4cf3176bc3943e6c477885be3445cbbd7d4bab6",
-      "Hash": "832ef2a01603f8f5b4f2af024080d5d9",
+      "Hash": "ca8bd84263c77310739d2cf64d84d7c9",
       "Requirements": []
     },
     "stringr": {
